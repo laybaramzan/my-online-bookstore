@@ -24,6 +24,7 @@ const Footer = () => {
         <li>Offices</li>
         <li>About</li>
         <li>Contact</li>
+        <li>laiba</li>
       </ul>
       <div className="footer-social-icon text-center">
         <div className="footer-icon-container" >
