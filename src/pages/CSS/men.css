@@ -1,0 +1,11 @@
+.shopcategory-loadmore {
+  margin-left: 43%;
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  height: 50px;
+  width: 150px;
+  padding-block: 15px;
+  padding-inline: 30px;
+  border-radius: 50px;
+}
